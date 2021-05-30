@@ -1,0 +1,3 @@
+Attempts to adjust mass values for ships in the game Endless Sky. Where mass governs acceleration and turning and drag limits max velocity, larger ships should have more mass so they accelerate slower than small ships... 
+
+So far it does not do so consistantly.
