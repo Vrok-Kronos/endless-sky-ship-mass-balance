@@ -1,5 +1,60 @@
 #Hai ships
 
+ship "Aphid"
+	attributes
+		"mass" 142
+		"drag" 1.9
+
+ship "Centipede"
+	attributes
+		"mass" 437
+		"drag" 3.9
+
+ship "Flea"
+	attributes
+		"mass" 47
+		"drag" .55
+
+ship "Geocoris"
+	attributes
+		"mass" 556
+		"drag" 17.1
+
+ship "Grasshopper"
+	attributes
+		"mass" 97
+		"drag" 1.5
+
+ship "Lightning Bug"
+	attributes
+		"mass" 199
+		"drag" 3.8
+
+ship "Pond Strider"
+	attributes
+		"mass" 270
+		"drag" 3.55
+
+ship "Shield Beetle"
+	attributes
+		"mass" 809
+		"drag" 8.8
+
+ship "Solifuge"
+	attributes
+		"mass" 910
+		"drag" 15.4
+
+ship "Violin Spider"
+	attributes
+		"mass" 52
+		"drag" 0.9
+
+ship "Water Bug"
+	attributes
+		"mass" 372
+		"drag" 5.9
+
 #Human ships
 
 ship "Aerie"
@@ -367,3 +422,161 @@ ship "Marauder Splinter"
 
 outfit "Bunk Room"
 	"mass" 6
+
+#Korath ships
+
+ship "Korath Dredger"
+	attributes
+		"mass" 1323
+		"drag" 18.3
+
+ship "Korath Raider"
+	attributes
+		"mass" 842
+		"drag" 12
+
+ship "Korath Chaser"
+	attributes
+		"mass" 49
+		"drag" .9
+
+ship "Korath World-Ship"
+	attributes
+		"mass" 3541
+		"drag" 21
+
+ship "Kar Ik Vot 349"
+	attributes
+		"mass" 2327
+		"drag" 16.8
+
+ship "Tek Far 71 - Lek"
+	attributes
+		"mass" 1074
+		"drag" 9.6
+
+ship "Tek Far 78 - Osk"
+	attributes
+		"mass" 1237
+		"drag" 10.2
+
+ship "Tek Far 109"
+	attributes
+		"mass" 627
+		"drag" 9.1
+
+ship "Met Par Tek 53"
+	attributes
+		"mass" 856
+		"drag" 5.7
+
+ship "Far Lek 14"
+	attributes
+		"mass" 64
+		"drag" .8
+
+ship "Far Osk 27"
+	attributes
+		"mass" 97
+		"drag" 1.1
+
+ship "Model 8"
+	attributes
+		"mass" 162
+		"drag" 3.2
+
+ship "Model 16"
+	attributes
+		"mass" 422
+		"drag" 6.9
+
+ship "Model 32"
+	attributes
+		"mass" 549
+		"drag" 9.0
+
+ship "Model 64"
+	attributes
+		"mass" 713
+		"drag" 11.1
+
+ship "Model 128"
+	attributes
+		"mass" 905
+		"drag" 13.2
+
+ship "Model 256"
+	attributes
+		"mass" 1113
+		"drag" 15.3
+
+ship "Model 512"
+	attributes
+		"mass" 1316
+		"drag" 17.4
+
+#Wanderer ships
+
+ship "Earth Shaper"
+	attributes
+		"mass" 135
+		"drag" .9
+
+ship "Flycatcher"
+	attributes
+		"mass" 168
+		"drag" .6
+
+ship "Summer Leaf"
+	attributes
+		"mass" 349
+		"drag" 2.6
+
+ship "Autumn Leaf"
+	attributes
+		"mass" 393
+		"drag" 2.9
+
+ship "Strong Wind"
+	attributes
+		"mass" 820
+		"drag" 4.7
+
+ship "Tempest"
+		"mass" 1065
+		"drag" 6.2
+
+ship "Derecho"
+	attributes
+		"mass" 1358
+		"drag" 8.7
+
+ship "Hurricane"
+	attributes
+		"mass" 1885
+		"drag" 11.9
+
+ship "Cool Breeze"
+	attributes
+		"mass" 166
+		"drag" 1.8
+
+ship "Winter Gale"
+	attributes
+		"mass" 639
+		"drag" 5.6
+
+ship "Deep River"
+	attributes
+		"mass" 1655
+		"drag" 9.4
+
+ship "Deep River Transport"
+	attributes
+		"mass" 1863
+		"drag" 9.4
+
+ship "Riptide"
+	attributes
+		"mass" 1210
+		"drag" 7.3
