@@ -1,9 +1,5 @@
 #Hai ships
 
-ship "Centipede"
-	attributes
-		"mass" 187
-
 #Human ships
 
 ship "Aerie"
@@ -198,6 +194,19 @@ ship "Heavy Shuttle"
 	attributes
 		"mass" 108
 		"drag" 2.1
+
+ship "Kestrel"
+	attributes
+		"mass" 776
+		"drag" 11
+
+ship "Kestrel" "Kestrel (More Engines)"
+	add attributes
+		"mass" 6
+
+ship "Kestrel" "Kestrel (More Shields)"
+	add attributes
+		"mass" 68
 
 ship "Lance"
 	attributes
