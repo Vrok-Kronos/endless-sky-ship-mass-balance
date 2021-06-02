@@ -59,22 +59,22 @@ ship "Water Bug"
 
 ship "Aerie"
 	attributes
-		"mass" 268
+		"mass" 706
 		"drag" 4.1
 
 ship "Argosy"
 	attributes
-		"mass" 239
+		"mass" 331
 		"drag" 5.9
 
 ship "Arrow"
 	attributes
-		"mass" 113
+		"mass" 124
 		"drag" 2.0
 
 ship "Auxiliary"
 	attributes
-		"mass" 899
+		"mass" 1028
 		"drag" 13.3
 
 ship "Auxiliary" "Auxiliary (Cargo)"
@@ -87,335 +87,335 @@ ship "Auxiliary" "Auxiliary (Transport)"
 
 ship "Bactrian"
 	attributes
-		"mass" 1299
+		"mass" 3549
 		"drag" 16.1
 
 ship "Barb"
 	attributes
-		"mass" 36
+		"mass" 37
 		"drag" .8
 
 ship "Bastion"
 	attributes
-		"mass" 435
+		"mass" 1288
 		"drag" 10.3
 
 ship "Behemoth"
 	attributes
-		"mass" 509
+		"mass" 934
 		"drag" 11.7
 
 ship "Berserker"
 	attributes
-		"mass" 123
+		"mass" 146
 		"drag" 2.2
 
 ship "Blackbird"
 	attributes
-		"mass" 224
+		"mass" 244
 		"drag" 5.0
 
 ship "Bounder"
 	attributes
-		"mass" 173
+		"mass" 185
 		"drag" 3.7
 
 ship "Boxwing"
 	attributes
-		"mass" 50
+		"mass" 41
 		"drag" .59
 
 ship "Bulk Freighter"
 	attributes
-		"mass" 521
+		"mass" 856
 		"drag" 15.8
 
 ship "Carrier"
 	attributes
-		"mass" 924
+		"mass" 3392
 		"drag" 17.7
 
 ship "Class C Freighter"
 	attributes
-		"mass" 556
+		"mass" 2507
 		"drag" 16.4
 
 ship "Clipper"
 	attributes
-		"mass" 120
+		"mass" 184
 		"drag" 3.7
 
 ship "Combat Drone"
 	attributes
-		"mass" 48
+		"mass" 24
 		"drag" .59
 
 ship "Container Transport"
 	attributes
-		"mass" 521
+		"mass" 856
 		"drag" 15.8
 
 ship "Corvette"
 	attributes
-		"mass" 179
+		"mass" 657
 		"drag" 3.5
 
 ship "Cruiser"
 	attributes
-		"mass" 744
+		"mass" 2885
 		"drag" 10.1
 
 ship "Dagger"
 	attributes
-		"mass" 29
+		"mass" 35
 		"drag" .63
 
 ship "Dreadnought"
 	attributes
-		"mass" 809
+		"mass" 3288
 		"drag" 10.1
 
 ship "Dropship"
 	attributes
-		"mass" 51
+		"mass" 46
 		"drag" 0.8
 
 ship "Falcon"
 	attributes
-		"mass" 468
+		"mass" 1831
 		"drag" 6.7
 
 ship "Finch"
 	attributes
-		"mass" 42
+		"mass" 45
 		"drag" .83
 
 ship "Firebird"
 	attributes
-		"mass" 439
+		"mass" 983
 		"drag" 4.5
 
 ship "Flivver"
 	attributes
-		"mass" 80
+		"mass" 90
 		"drag" 1.0
 
 ship "Freighter"
 	attributes
-		"mass" 208
+		"mass" 260
 		"drag" 5.6
 
 ship "Frigate"
 	attributes
-		"mass" 325
+		"mass" 943
 		"drag" 5.2
 
 ship "Fury"
 	attributes
-		"mass" 104
+		"mass" 146
 		"drag" 1.6
 
 ship "Gunboat"
 	attributes
-		"mass" 194
+		"mass" 429
 		"drag" 3.1
 
 ship "Hauler"
 	attributes
-		"mass" 308
+		"mass" 366
 		"drag" 10.5
 
 ship "Hauler II"
 	attributes
-		"mass" 375
+		"mass" 618
 		"drag" 11.5
 
 ship "Hauler III"
 	attributes
-		"mass" 443
+		"mass" 727
 		"drag" 12.5
 
 ship "Hawk"
 	attributes
-		"mass" 103
+		"mass" 146
 		"drag" 2.1
 
 ship "Headhunter"
 	attributes
-		"mass" 100
+		"mass" 272
 		"drag" 2.6
 
 ship "Heavy Shuttle"
 	attributes
-		"mass" 108
+		"mass" 116
 		"drag" 2.1
 
 ship "Kestrel"
 	attributes
-		"mass" 776
+		"mass" 2996
 		"drag" 11
 
 ship "Kestrel" "Kestrel (More Engines)"
 	add attributes
-		"mass" 6
+		"mass" 8
 
 ship "Kestrel" "Kestrel (More Shields)"
 	add attributes
-		"mass" 68
+		"mass" 421
 
 ship "Lance"
 	attributes
-		"mass" 48
+		"mass" 42
 		"drag" .7
 
 ship "Leviathan"
 	attributes
-		"mass" 697
+		"mass" 2410
 		"drag" 7.6
 
 ship "Manta"
 	attributes
-		"mass" 206
+		"mass" 622
 		"drag" 4.7
 
 ship "Modified Argosy"
 	attributes
-		"mass" 224
+		"mass" 495
 		"drag" 6.2
 
 ship "Mule"
 	attributes
-		"mass" 423
+		"mass" 1147
 		"drag" 5.7
 
 ship "Nest"
 	attributes
-		"mass" 331
+		"mass" 853
 		"drag" 10.5
 
 ship "Osprey"
 	attributes
-		"mass" 272
+		"mass" 770
 		"drag" 5.9
 
 ship "Protector"
 	attributes
-		"mass" 582
+		"mass" 2262
 		"drag" 10.3
 
 ship "Quicksilver"
 	attributes
-		"mass" 106
+		"mass" 254
 		"drag" 2.7
 
 ship "Rainmaker"
 	attributes
-		"mass" 170
+		"mass" 336
 		"drag" 3.8
 
 ship "Raven"
 	attributes
-		"mass" 192
+		"mass" 438
 		"drag" 3.7
 
 ship "Roost"
 	attributes
-		"mass" 422
+		"mass" 1080
 		"drag" 11.5
 
 ship "Scout"
 	attributes
-		"mass" 146
+		"mass" 143
 		"drag" 3.4
 
 ship "Shuttle"
 	attributes
-		"mass" 94
+		"mass" 85
 		"drag" 1.7
 
 ship "Skein"
 	attributes
-		"mass" 513
+		"mass" 1306
 		"drag" 12.5
 
 ship "Sparrow"
 	attributes
-		"mass" 71
+		"mass" 94
 		"drag" .9
 
 ship "Splinter"
 	attributes
-		"mass" 258
+		"mass" 662
 		"drag" 4.0
 
 ship "Star Barge"
 	attributes
-		"mass" 104
+		"mass" 122
 		"drag" 2.1
 
 ship "Star Queen"
 	attributes
-		"mass" 486
+		"mass" 451
 		"drag" 4.5
 
 ship "Surveillance Drone"
 	attributes
-		"mass" 22
+		"mass" 11
 		"drag" .53
 
 ship "Vanguard"
 	attributes
-		"mass" 521
+		"mass" 2162
 		"drag" 8
 
 ship "Wasp"
 	attributes
-		"mass" 92
+		"mass" 121
 		"drag" 1.2
 
 ship "Marauder Arrow"
 	attributes
-		"mass" 126
+		"mass" 136
 		"drag" 2.0
 
 ship "Marauder Bounder"
 	attributes
-		"mass" 181
+		"mass" 195
 		"drag" 3.7
 
 ship "Marauder Falcon"
 	attributes
-		"mass" 505
+		"mass" 1771
 		"drag" 6.7
 
 ship "Marauder Firebird"
 	attributes
-		"mass" 351
+		"mass" 856
 		"drag" 4.5
 
 ship "Marauder Leviathan"
 	attributes
-		"mass" 574
+		"mass" 2100
 		"drag" 7.6
 
 ship "Marauder Manta"
 	attributes
-		"mass" 230
+		"mass" 617
 		"drag" 4.7
 
 ship "Marauder Quicksilver"
 	attributes
-		"mass" 116
+		"mass" 257
 		"drag" 2.7
 
 ship "Marauder Raven"
 	attributes
-		"mass" 211
+		"mass" 378
 		"drag" 3.7
 
 ship "Marauder Splinter"
 	attributes
-		"mass" 285
+		"mass" 664
 		"drag" 4.0
 
 #Human outfits -----------------------------------------------------------------------
