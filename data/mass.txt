@@ -2,57 +2,57 @@
 
 ship "Aphid"
 	attributes
-		"mass" 141
+		"mass" 164
 		"drag" 1.9
 
 ship "Centipede"
 	attributes
-		"mass" 436
+		"mass" 443
 		"drag" 3.9
 
 ship "Flea"
 	attributes
-		"mass" 47
+		"mass" 22
 		"drag" .55
 
 ship "Geocoris"
 	attributes
-		"mass" 554
+		"mass" 1005
 		"drag" 17.1
 
 ship "Grasshopper"
 	attributes
-		"mass" 97
+		"mass" 108
 		"drag" 1.5
 
 ship "Lightning Bug"
 	attributes
-		"mass" 199
+		"mass" 356
 		"drag" 3.8
 
 ship "Pond Strider"
 	attributes
-		"mass" 269
+		"mass" 730
 		"drag" 3.55
 
 ship "Shield Beetle"
 	attributes
-		"mass" 807
+		"mass" 3335
 		"drag" 8.8
 
 ship "Solifuge"
 	attributes
-		"mass" 907
+		"mass" 3788
 		"drag" 15.4
 
 ship "Violin Spider"
 	attributes
-		"mass" 52
+		"mass" 45
 		"drag" 0.9
 
 ship "Water Bug"
 	attributes
-		"mass" 371
+		"mass" 653
 		"drag" 5.9
 
 #Human ships ---------------------------------------------------------------------
@@ -423,96 +423,148 @@ ship "Marauder Splinter"
 outfit "Bunk Room"
 	"mass" 6
 
+#Remnant ships -----------------------------------------------------------------------
+
+ship "Albatross"
+	attributes
+		"mass" 2389
+		"drag" 8.6
+
+ship "Gull"
+	attributes
+		"mass" 249
+		"drag" 6
+
+ship "Heron"
+	attributes
+		"mass" 12036
+		"drag" 25
+
+ship "Ibis"
+	attributes
+		"mass" 887
+		"drag" 5.1
+
+ship "Pelican"
+	attributes
+		"mass" 570
+		"drag" 7.2
+
+ship "Penguin"
+	attributes
+		"mass" 135
+		"drag" 1.25
+	
+ship "Peregrine"
+	attributes
+		"mass" 1084
+		"drag" 4.3
+
+ship "Petrel"
+	attributes
+		"mass" 72
+		"drag" 1.55
+
+ship "Starling"
+	attributes
+		"mass" 465
+		"drag" 3.8
+
+ship "Tern"
+	attributes
+		"mass" 41
+		"drag" 1.0
+
 #Korath ships ------------------------------------------------------------------------
 
 ship "Korath Dredger"
 	attributes
-		"mass" 1315
+		"mass" 1861
 		"drag" 18.3
 
 ship "Korath Raider"
 	attributes
-		"mass" 838
+		"mass" 2049
 		"drag" 12
 
 ship "Korath Chaser"
 	attributes
-		"mass" 48
+		"mass" 38
 		"drag" .9
 
 ship "Korath World-Ship"
 	attributes
-		"mass" 3524
+		"mass" 4595
 		"drag" 21
 
 ship "Kar Ik Vot 349"
 	attributes
-		"mass" 2294
+		"mass" 4923
 		"drag" 16.8
 
 ship "Tek Far 71 - Lek"
 	attributes
-		"mass" 1059
+		"mass" 1746
 		"drag" 9.6
 
 ship "Tek Far 78 - Osk"
 	attributes
-		"mass" 1220
+		"mass" 1991
 		"drag" 10.2
 
 ship "Tek Far 109"
 	attributes
-		"mass" 619
+		"mass" 1040
 		"drag" 9.1
 
 ship "Met Par Tek 53"
 	attributes
-		"mass" 845
+		"mass" 886
 		"drag" 5.7
 
 ship "Far Lek 14"
 	attributes
-		"mass" 63
+		"mass" 20
 		"drag" .8
 
 ship "Far Osk 27"
 	attributes
-		"mass" 95
+		"mass" 42
 		"drag" 1.1
 
 ship "Model 8"
 	attributes
-		"mass" 160
+		"mass" 111
 		"drag" 3.2
 
 ship "Model 16"
 	attributes
-		"mass" 417
+		"mass" 501
 		"drag" 6.9
 
 ship "Model 32"
 	attributes
-		"mass" 542
+		"mass" 711
 		"drag" 9.0
 
 ship "Model 64"
 	attributes
-		"mass" 704
+		"mass" 1437
 		"drag" 11.1
 
 ship "Model 128"
 	attributes
-		"mass" 893
+		"mass" 1874
 		"drag" 13.2
 
 ship "Model 256"
 	attributes
-		"mass" 1098
+		"mass" 2995
 		"drag" 15.3
 
 ship "Model 512"
 	attributes
-		"mass" 1299
+		"mass" 3571
 		"drag" 17.4
 
 #Wanderer ships -------------------------------------------------------------------------
