@@ -571,64 +571,64 @@ ship "Model 512"
 
 ship "Earth Shaper"
 	attributes
-		"mass" 134
+		"mass" 83
 		"drag" .9
 
 ship "Flycatcher"
 	attributes
-		"mass" 165
+		"mass" 37
 		"drag" .6
 
 ship "Summer Leaf"
 	attributes
-		"mass" 345
+		"mass" 396
 		"drag" 2.6
 
 ship "Autumn Leaf"
 	attributes
-		"mass" 389
+		"mass" 466
 		"drag" 2.9
 
 ship "Strong Wind"
 	attributes
-		"mass" 810
+		"mass" 1302
 		"drag" 4.7
 
 ship "Tempest"
-		"mass" 1052
+		"mass" 1748
 		"drag" 6.2
 
 ship "Derecho"
 	attributes
-		"mass" 1341
+		"mass" 3054
 		"drag" 8.7
 
 ship "Hurricane"
 	attributes
-		"mass" 1861
+		"mass" 4235
 		"drag" 11.9
 
 ship "Cool Breeze"
 	attributes
-		"mass" 164
+		"mass" 125
 		"drag" 1.8
 
 ship "Winter Gale"
 	attributes
-		"mass" 632
+		"mass" 674
 		"drag" 5.6
 
 ship "Deep River"
 	attributes
-		"mass" 1631
+		"mass" 1317
 		"drag" 9.4
 
 ship "Deep River Transport"
 	attributes
-		"mass" 1839
+		"mass" 1529
 		"drag" 9.4
 
 ship "Riptide"
 	attributes
-		"mass" 1199
+		"mass" 865
 		"drag" 7.3
