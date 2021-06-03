@@ -1,4 +1,66 @@
-#Hai ships
+#Coalition Ships -----------------------------------------------------
+
+ship "Arach Courier"
+	attributes
+		"mass" 113
+		"drag" 2.9
+
+ship "Arach Freighter"
+	attributes
+		"mass" 380
+		"drag" 10.6
+
+ship "Arach Hulk"
+	attributes
+		"mass" 822
+		"drag" 18.9
+
+ship "Arach Spindle"
+	attributes
+		"mass" 621
+		"drag" 10.8
+
+ship "Arach Transport"
+	attributes
+		"mass" 236
+		"drag" 7.2
+
+ship "Kimek Spire"
+	attributes
+		"mass" 631
+		"drag" 8.4
+
+ship "Kimek Thistle"
+	attributes
+		"mass" 288
+		"drag" 5.8
+
+ship "Kimek Thorn"
+	attributes
+		"mass" 100
+		"drag" 1.8
+
+ship "Saryd Runabout"
+	attributes
+		"mass" 131
+		"drag" 2.8
+
+ship "Saryd Sojourner"
+	attributes
+		"mass" 799
+		"drag" 12.9
+
+ship "Saryd Traveler"
+	attributes
+		"mass" 454
+		"drag" 5.5
+
+ship "Saryd Visitor"
+	attributes
+		"mass" 221
+		"drag" 4.4
+
+#Hai ships -----------------------------------------------------------
 
 ship "Aphid"
 	attributes

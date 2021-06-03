@@ -1,0 +1,13 @@
+#Remannt Weapons -------------------------------------------------------
+
+outfit "Inhibitor Cannon"
+	weapon
+		"firing force" 6
+		"hit force" 18
+		"cluster"
+
+outfit "Inhibitor Turret"
+	weapon
+		"firing force" 6
+		"hit force" 18
+		"cluster"
