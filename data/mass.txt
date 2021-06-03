@@ -154,8 +154,14 @@ ship "Bactrian"
 
 ship "Barb"
 	attributes
-		"mass" 37
+		"shields" 400
+		"hull" 600
+		"mass" 44
 		"drag" .8
+
+ship "Barb" "Barb (Proton)"
+	add attributes
+		"mass" -1
 
 ship "Bastion"
 	attributes
@@ -229,7 +235,9 @@ ship "Cruiser"
 
 ship "Dagger"
 	attributes
-		"mass" 35
+		"shields" 800
+		"hull" 500
+		"mass" 38
 		"drag" .63
 
 ship "Dreadnought"
@@ -239,7 +247,9 @@ ship "Dreadnought"
 
 ship "Dropship"
 	attributes
-		"mass" 46
+		"shields" 200
+		"hull" 600
+		"mass" 54
 		"drag" 0.8
 
 ship "Falcon"
@@ -249,7 +259,9 @@ ship "Falcon"
 
 ship "Finch"
 	attributes
-		"mass" 45
+		"shields" 600
+		"hull" 700
+		"mass" 54
 		"drag" .83
 
 ship "Firebird"
@@ -327,7 +339,9 @@ ship "Kestrel" "Kestrel (More Shields)"
 
 ship "Lance"
 	attributes
-		"mass" 42
+		"shields" 600
+		"hull" 600
+		"mass" 47
 		"drag" .7
 
 ship "Leviathan"
