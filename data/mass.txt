@@ -671,6 +671,7 @@ ship "Strong Wind"
 		"drag" 4.7
 
 ship "Tempest"
+	attributes
 		"mass" 1748
 		"drag" 6.2
 
