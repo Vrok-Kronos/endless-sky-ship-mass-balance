@@ -117,6 +117,53 @@ ship "Water Bug"
 		"mass" 653
 		"drag" 5.9
 
+#Heliarch ships -----------------------------------------------------------
+
+ship "Heliarch Breacher"
+	attributes
+		"mass" 701
+		"drag" 3.2
+
+ship "Heliarch Hunter"
+	attributes
+		"mass" 2215
+		"drag" 5.3
+
+ship "Heliarch Interdictor"
+	attributes
+		"mass" 2596
+		"drag" 7.4
+
+ship "Heliarch Judicator"
+	attributes
+		"mass" 2092
+		"drag" 7.9
+
+ship "Heliarch Neutralizer"
+	attributes
+		"mass" 1031
+		"drag" 4.1
+
+ship "Heliarch Punisher"
+	attributes
+		"mass" 5500
+		"drag" 12.2
+
+ship "Heliarch Pursuer"
+	attributes
+		"mass" 25
+		"drag" 0.8
+
+ship "Heliarch Rover"
+	attributes
+		"mass" 42
+		"drag" 1.19
+
+ship "Heliarch Stalker"
+	attributes
+		"mass" 68
+		"drag" 2.1
+
 #Human ships ---------------------------------------------------------------------
 
 ship "Aerie"
