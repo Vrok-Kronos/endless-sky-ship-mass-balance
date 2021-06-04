@@ -1,0 +1,2 @@
+outfit "Fusion Drive"
+	"turn" 2870.4

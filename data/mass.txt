@@ -762,12 +762,12 @@ ship "Quarg Wardragon"
 
 ship "Emerald Sword"
 	attributes
-		"mass" 7581
+		"mass" 2877
 		"drag" 20
 
 ship "Black Diamond"
 	attributes
-		"mass" 128
+		"mass" 109
 		"drag" .9
 
 #Wanderer ships -------------------------------------------------------
