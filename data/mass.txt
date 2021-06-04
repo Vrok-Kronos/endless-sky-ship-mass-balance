@@ -643,7 +643,19 @@ ship "Model 512"
 		"mass" 3571
 		"drag" 17.4
 
-#Wanderer ships -------------------------------------------------------------------------
+#Quarg Ships ----------------------------------------------------------
+
+ship "Quarg Skylark"
+	attributes
+		"mass" 4039
+		"drag" 12.3
+
+ship "Quarg Wardragon"
+	attributes
+		"mass" 3565
+		"drag" 9.3
+
+#Wanderer ships -------------------------------------------------------
 
 ship "Earth Shaper"
 	attributes
