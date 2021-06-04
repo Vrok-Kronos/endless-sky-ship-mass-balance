@@ -751,6 +751,18 @@ ship "Quarg Wardragon"
 		"mass" 3565
 		"drag" 9.3
 
+#Sheragi Ships --------------------------------------------------------
+
+ship "Emerald Sword"
+	attributes
+		"mass" 7581
+		"drag" 20
+
+ship "Black Diamond"
+	attributes
+		"mass" 128
+		"drag" .9
+
 #Wanderer ships -------------------------------------------------------
 
 ship "Earth Shaper"
