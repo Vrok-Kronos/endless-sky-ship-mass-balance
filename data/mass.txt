@@ -2,62 +2,62 @@
 
 ship "Arach Courier"
 	attributes
-		"mass" 113
+		"mass" 117
 		"drag" 2.9
 
 ship "Arach Freighter"
 	attributes
-		"mass" 380
+		"mass" 391
 		"drag" 10.6
 
 ship "Arach Hulk"
 	attributes
-		"mass" 822
+		"mass" 849
 		"drag" 18.9
 
 ship "Arach Spindle"
 	attributes
-		"mass" 621
+		"mass" 645
 		"drag" 10.8
 
 ship "Arach Transport"
 	attributes
-		"mass" 236
+		"mass" 243
 		"drag" 7.2
 
 ship "Kimek Spire"
 	attributes
-		"mass" 631
+		"mass" 669
 		"drag" 8.4
 
 ship "Kimek Thistle"
 	attributes
-		"mass" 288
+		"mass" 308
 		"drag" 5.8
 
 ship "Kimek Thorn"
 	attributes
-		"mass" 100
+		"mass" 104
 		"drag" 1.8
 
 ship "Saryd Runabout"
 	attributes
-		"mass" 131
+		"mass" 138
 		"drag" 2.8
 
 ship "Saryd Sojourner"
 	attributes
-		"mass" 799
+		"mass" 861
 		"drag" 12.9
 
 ship "Saryd Traveler"
 	attributes
-		"mass" 454
+		"mass" 485
 		"drag" 5.5
 
 ship "Saryd Visitor"
 	attributes
-		"mass" 221
+		"mass" 234
 		"drag" 4.4
 
 #Hai ships -----------------------------------------------------------
@@ -597,6 +597,33 @@ ship "Tern"
 	attributes
 		"mass" 41
 		"drag" 1.0
+
+#Ka'Het Ships ----------------------------------------------------------
+
+ship "Maeri'het"
+	attributes
+		"mass" 829
+		"drag" 3.8
+
+ship "Telis'het"
+	attributes
+		"mass" 1443
+		"drag" 6.9
+
+ship "Vareti'het"
+	attributes
+		"mass" 2412
+		"drag" 11.9
+
+ship "Selii'mar"
+	attributes
+		"mass" 23
+		"drag" .8
+
+ship "Faes'mar"
+	attributes
+		"mass" 17
+		"drag" .7
 
 #Korath ships ------------------------------------------------------------------------
 
