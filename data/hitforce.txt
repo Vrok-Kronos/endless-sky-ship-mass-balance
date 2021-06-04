@@ -2,12 +2,18 @@
 
 outfit "Inhibitor Cannon"
 	weapon
-		"firing force" 6
+		"firing force" 3.3
 		"hit force" 18
 		"cluster"
 
 outfit "Inhibitor Turret"
 	weapon
-		"firing force" 6
+		"firing force" 3.3
 		"hit force" 18
 		"cluster"
+
+#Pug Weapons ----------------------------------------------------------
+
+outfit "Pug Gridfire Turret"
+	weapon
+		"firing force" 37.5

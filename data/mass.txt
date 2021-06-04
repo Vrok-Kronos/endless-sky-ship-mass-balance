@@ -717,6 +717,28 @@ ship "Model 512"
 		"mass" 3571
 		"drag" 17.4
 
+#Pug Ships ------------------------------------------------------------
+
+ship "Pug Zibruka"
+	attributes
+		"mass" 250
+		"drag" 3.1
+
+ship "Pug Enfolta"
+	attributes
+		"mass" 600
+		"drag" 5.9
+
+ship "Pug Maboro"
+	attributes
+		"mass" 1298
+		"drag" 9.8
+
+ship "Pug Arfecta"
+	attributes
+		"mass" 3240
+		"drag" 7.5
+
 #Quarg Ships ----------------------------------------------------------
 
 ship "Quarg Skylark"
