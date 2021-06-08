@@ -559,51 +559,100 @@ ship "Albatross"
 	attributes
 		"mass" 2389
 		"drag" 8.6
+		"shield generation" 10.4
+		"shield energy" 4.6
+		"hull repair rate" 3
+		"hull energy" 1.2
 
 ship "Gull"
 	attributes
 		"mass" 249
 		"drag" 6
+		"shield generation" 3.2
+		"shield energy" 1.1
+		"hull repair rate" 1.4
+		"hull energy" 0.5
 
 ship "Heron"
 	attributes
 		"mass" 12036
 		"drag" 25
+		"shield generation" 30
+		"shield energy" 1.8
+		"hull repair rate" 30
+		"hull energy" 0.75
 
 ship "Ibis"
 	attributes
 		"mass" 887
 		"drag" 5.1
+		"shield generation" 7.0
+		"shield energy" 3.1
+		"hull repair rate" 2.4
+		"hull energy" 0.95
 
 ship "Pelican"
 	attributes
 		"mass" 570
 		"drag" 7.2
+		"shield generation" 5.4
+		"shield energy" 1.8
+		"hull repair rate" 2.0
+		"hull energy" 0.75
 
 ship "Penguin"
 	attributes
 		"mass" 135
 		"drag" 1.25
+		"shield generation" 2
+		"shield energy" 0.5
+		"hull repair rate" 4
+		"hull energy" 1.0
 	
 ship "Peregrine"
 	attributes
 		"mass" 1084
 		"drag" 4.3
+		"shield generation" 7.8
+		"shield energy" 3.0
+		"hull repair rate" 3.0
+		"hull energy" 0.90
 
 ship "Petrel"
 	attributes
 		"mass" 72
 		"drag" 1.55
+		"shield generation" 0.72
+		"shield energy" 0.24
+		"hull repair rate" 1.64
+		"hull energy" 0.54
+
+ship "Puffin"
+	attributes
+		"mass" 103
+		"drag" 1.27
+		"shield generation" 1.2
+		"shield energy" 0.4
+		"hull repair rate" 2.4
+		"hull energy" 0.9
 
 ship "Starling"
 	attributes
 		"mass" 465
 		"drag" 3.8
+		"shield generation" 3.6
+		"shield energy" 1.2
+		"hull repair rate" 1.6
+		"hull energy" 0.6
 
 ship "Tern"
 	attributes
 		"mass" 41
 		"drag" 1.0
+		"shield generation" 0.5
+		"shield energy" 0.16
+		"hull repair rate" 1.1
+		"hull energy" 0.37
 
 #Ka'Het Ships ----------------------------------------------------------
 
@@ -730,21 +779,29 @@ ship "Pug Zibruka"
 	attributes
 		"mass" 250
 		"drag" 3.1
+		"shield generation" 12
+		"shield energy" 6
 
 ship "Pug Enfolta"
 	attributes
 		"mass" 600
 		"drag" 5.9
+		"shield generation" 16
+		"shield energy" 8
 
 ship "Pug Maboro"
 	attributes
 		"mass" 1298
 		"drag" 9.8
+		"shield generation" 20
+		"shield energy" 10
 
 ship "Pug Arfecta"
 	attributes
 		"mass" 3240
 		"drag" 7.5
+		"shield generation" 64
+		"shield energy" 32
 
 #Quarg Ships ----------------------------------------------------------
 
@@ -769,6 +826,7 @@ ship "Black Diamond"
 	attributes
 		"mass" 109
 		"drag" .9
+		"hull repair rate" 2
 
 #Wanderer ships -------------------------------------------------------
 
