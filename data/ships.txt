@@ -559,100 +559,100 @@ ship "Albatross"
 	attributes
 		"mass" 2389
 		"drag" 8.6
-		"shield generation" 10.4
-		"shield energy" 4.6
-		"hull repair rate" 3
-		"hull energy" 1.2
+		"shield generation" 9.88
+		"shield energy" 10.98
+		"hull repair rate" 2.85
+		"hull energy" 3.17
 
 ship "Gull"
 	attributes
 		"mass" 249
 		"drag" 6
-		"shield generation" 3.2
-		"shield energy" 1.1
-		"hull repair rate" 1.4
-		"hull energy" 0.5
+		"shield generation" 3.04
+		"shield energy" 3.38
+		"hull repair rate" 1.33
+		"hull energy" 1.48
 
 ship "Heron"
 	attributes
 		"mass" 12036
 		"drag" 25
-		"shield generation" 30
-		"shield energy" 1.8
-		"hull repair rate" 30
-		"hull energy" 0.75
+		"shield generation" 28.5
+		"shield energy" 31.67
+		"hull repair rate" 28.5
+		"hull energy" 31.67
 
 ship "Ibis"
 	attributes
 		"mass" 887
 		"drag" 5.1
-		"shield generation" 7.0
-		"shield energy" 3.1
-		"hull repair rate" 2.4
-		"hull energy" 0.95
+		"shield generation" 6.65
+		"shield energy" 7.39
+		"hull repair rate" 2.28
+		"hull energy" 2.53
 
 ship "Pelican"
 	attributes
 		"mass" 570
 		"drag" 7.2
-		"shield generation" 5.4
-		"shield energy" 1.8
-		"hull repair rate" 2.0
-		"hull energy" 0.75
+		"shield generation" 5.13
+		"shield energy" 5.7
+		"hull repair rate" 1.9
+		"hull energy" 2.11
 
 ship "Penguin"
 	attributes
 		"mass" 135
 		"drag" 1.25
-		"shield generation" 2
-		"shield energy" 0.5
-		"hull repair rate" 4
-		"hull energy" 1.0
+		"shield generation" 1.9
+		"shield energy" 2.11
+		"hull repair rate" 3.8
+		"hull energy" 4.22
 	
 ship "Peregrine"
 	attributes
 		"mass" 1084
 		"drag" 4.3
-		"shield generation" 7.8
-		"shield energy" 3.0
-		"hull repair rate" 3.0
-		"hull energy" 0.90
+		"shield generation" 7.41
+		"shield energy" 8.23
+		"hull repair rate" 2.85
+		"hull energy" 3.17
 
 ship "Petrel"
 	attributes
 		"mass" 72
 		"drag" 1.55
-		"shield generation" 0.72
-		"shield energy" 0.24
-		"hull repair rate" 1.64
-		"hull energy" 0.54
+		"shield generation" 0.68
+		"shield energy" 0.76
+		"hull repair rate" 1.56
+		"hull energy" 1.73
 
 ship "Puffin"
 	attributes
 		"mass" 103
 		"drag" 1.27
-		"shield generation" 1.2
-		"shield energy" 0.4
-		"hull repair rate" 2.4
-		"hull energy" 0.9
+		"shield generation" 1.14
+		"shield energy" 1.27
+		"hull repair rate" 2.28
+		"hull energy" 2.53
 
 ship "Starling"
 	attributes
 		"mass" 465
 		"drag" 3.8
-		"shield generation" 3.6
-		"shield energy" 1.2
-		"hull repair rate" 1.6
-		"hull energy" 0.6
+		"shield generation" 3.42
+		"shield energy" 3.8
+		"hull repair rate" 1.52
+		"hull energy" 1.69
 
 ship "Tern"
 	attributes
 		"mass" 41
 		"drag" 1.0
-		"shield generation" 0.5
-		"shield energy" 0.16
-		"hull repair rate" 1.1
-		"hull energy" 0.37
+		"shield generation" 0.48
+		"shield energy" 0.53
+		"hull repair rate" 1.05
+		"hull energy" 1.16
 
 #Ka'Het Ships ----------------------------------------------------------
 
@@ -779,29 +779,29 @@ ship "Pug Zibruka"
 	attributes
 		"mass" 250
 		"drag" 3.1
-		"shield generation" 12
-		"shield energy" 6
+		"shield generation" 11.4
+		"shield energy" 12.03
 
 ship "Pug Enfolta"
 	attributes
 		"mass" 600
 		"drag" 5.9
-		"shield generation" 16
-		"shield energy" 8
+		"shield generation" 15.2
+		"shield energy" 16.04
 
 ship "Pug Maboro"
 	attributes
 		"mass" 1298
 		"drag" 9.8
-		"shield generation" 20
-		"shield energy" 10
+		"shield generation" 19
+		"shield energy" 20.05
 
 ship "Pug Arfecta"
 	attributes
 		"mass" 3240
 		"drag" 7.5
-		"shield generation" 64
-		"shield energy" 32
+		"shield generation" 60.8
+		"shield energy" 64.17
 
 #Quarg Ships ----------------------------------------------------------
 
@@ -821,12 +821,13 @@ ship "Emerald Sword"
 	attributes
 		"mass" 2877
 		"drag" 20
+		"hull repair rate" 5.7
 
 ship "Black Diamond"
 	attributes
 		"mass" 109
 		"drag" .9
-		"hull repair rate" 2
+		"hull repair rate" 1.9
 
 #Wanderer ships -------------------------------------------------------
 

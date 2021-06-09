@@ -30,7 +30,9 @@ void Ship::ApplyForce(const Point &force, bool gravitational)
 	acceleration += force * (.3 / 400. + .7 / currentMass);
 }
 
-//Change	"acceleration += force * (.3 / 400. + .7 / currentMass);"
-//to		"acceleration += force / currentMass * 0.8;"
+//Change	
+	"acceleration += force * (.3 / 400. + .7 / currentMass);"
+//to		
+	"acceleration += force / currentMass * 0.8;"
 
 
