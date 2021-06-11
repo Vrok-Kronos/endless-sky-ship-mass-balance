@@ -1,2 +1,201 @@
+# Human
+
+outfit "X1050 Ion Engines"
+	"cost" 20000
+	"thrust" 5.0
+	"thrusting energy" 0.41
+	"thrusting heat" 0.76
+	"turn" 137.5
+	"turning energy" 0.19
+	"turning heat" 0.35
+
+outfit "X1700 Ion Thruster"
+	"cost" 12000
+	"thrust" 7.2
+	"thrusting energy" 0.58
+	"thrusting heat" 1.08
+
+outfit "X2700 Ion Thruster"
+	"cost" 26000
+	"thrust" 13.37
+	"thrusting energy" 1.05
+	"thrusting heat" 1.98
+
+outfit "X3700 Ion Thruster"
+	"cost" 58000
+	"thrust" 24.59
+	"thrusting energy" 1.92
+	"thrusting heat" 3.6
+
+outfit "X4700 Ion Thruster"
+	"cost" 128000
+	"thrust" 45.19
+	"thrusting energy" 3.49
+	"thrusting heat" 6.58
+
+outfit "X5700 Ion Thruster"
+	"cost" 281000
+	"thrust" 81.63
+	"thrusting energy" 6.26
+	"thrusting heat" 11.84
+
+outfit "X1200 Ion Steering"
+	"cost" 10000
+	"turn" 192
+	"turning energy" 0.26
+	"turning heat" 0.48
+
+outfit "X2200 Ion Steering"
+	"cost" 21000
+	"turn" 368
+	"turning energy" 0.48
+	"turning heat" 0.91
+
+outfit "X3200 Ion Steering"
+	"cost" 46000
+	"turn" 714.84
+	"turning energy" 0.93
+	"turning heat" 1.75
+
+outfit "X4200 Ion Steering"
+	"cost" 102000
+	"turn" 1313.47
+	"turning energy" 1.69
+	"turning heat" 3.19
+
+outfit "X5200 Ion Steering"
+	"cost" 225000
+	"turn" 2404.31
+	"turning energy" 3.07
+	"turning heat" 5.81
+
+outfit "Chipmunk Plasma Thruster"
+	"cost" 20000
+	"thrust" 11.7
+	"thrusting energy" 1.22
+	"thrusting heat" 2.38
+
+outfit "Greyhound Plasma Thruster"
+	"cost" 45000
+	"thrust" 21.88
+	"thrusting energy" 2.24
+	"thrusting heat" 4.4
+
+outfit "Impala Plasma Thruster"
+	"cost" 99000
+	"thrust" 40.31
+	"thrusting energy" 4.08
+	"thrusting heat" 8.04
+
+outfit "Orca Plasma Thruster"
+	"cost" 217000
+	"thrust" 72.88
+	"thrusting energy" 7.32
+	"thrusting heat" 14.47
+
+outfit "Tyrant Plasma Thruster"
+	"cost" 478000
+	"thrust" 132.26
+	"thrusting energy" 13.17
+	"thrusting heat" 26.19
+
+outfit "Chipmunk Plasma Steering"
+	"cost" 16000
+	"turn" 312
+	"turning energy" 0.54
+	"turning heat" 1.06
+
+outfit "Greyhound Plasma Steering"
+	"cost" 36000
+	"turn" 621.92
+	"turning energy" 1.06
+	"turning heat" 2.08
+
+outfit "Impala Plasma Steering"
+	"cost" 79000
+	"turn" 1141.7
+	"turning energy" 1.93
+	"turning heat" 3.8
+
+outfit "Orca Plasma Steering"
+	"cost" 174000
+	"turn" 2141.62
+	"turning energy" 3.58
+	"turning heat" 7.09
+
+outfit "Tyrant Plasma Steering"
+	"cost" 382000
+	"turn" 3907.01
+	"turning energy" 6.49
+	"turning heat" 12.89
+
+outfit "A120 Atomic Thruster"
+	"cost" 140000
+	"thrust" 16.73
+	"thrusting energy" 2.26
+	"thrusting heat" 4.57
+
+outfit "A250 Atomic Thruster"
+	"cost" 280000
+	"thrust" 28.44
+	"thrusting energy" 3.79
+	"thrusting heat" 7.71
+
+outfit "A370 Atomic Thruster"
+	"cost" 560000
+	"thrust" 47.88
+	"thrusting energy" 6.31
+	"thrusting heat" 12.9
+
+outfit "A520 Atomic Thruster"
+	"cost" 1120000
+	"thrust" 79.27
+	"thrusting energy" 10.35
+	"thrusting heat" 21.28
+
+outfit "A860 Atomic Thruster"
+	"cost" 2240000
+	"thrust" 130.75
+	"thrusting energy" 16.93
+	"thrusting heat" 35.04
+
+outfit "A125 Atomic Steering"
+	"cost" 120000
+	"turn" 432.64
+	"turning energy" 0.97
+	"turning heat" 1.97
+
+outfit "A255 Atomic Steering"
+	"cost" 240000
+	"turn" 777.4
+	"turning energy" 1.73
+	"turning heat" 3.51
+
+outfit "A375 Atomic Steering"
+	"cost" 480000
+	"turn" 1311.63
+	"turning energy" 2.88
+	"turning heat" 5.89
+
+outfit "A525 Atomic Steering"
+	"cost" 960000
+	"turn" 2257.38
+	"turning energy" 4.91
+	"turning heat" 10.1
+
+outfit "A865 Atomic Steering"
+	"cost" 1920000
+	"turn" 3738.23
+	"turning energy" 8.07
+	"turning heat" 16.7
+
+outfit "AR120 Reverse Thruster"
+	"cost" 140000
+	"reverse thrust" 16.73
+	"reverse thrusting energy" 2.26
+	"reverse thrusting heat" 4.57
+
+# Sheragi
+
 outfit "Fusion Drive"
 	"turn" 2870.4
