@@ -292,6 +292,97 @@ outfit "AR120 Reverse Thruster"
 	"reverse thrusting energy" 2.26
 	"reverse thrusting heat" 4.57
 
+# Korath
+
+outfit "Thruster (Asteroid Class)"
+	"thrust" 13.65
+	"thrusting energy" 2.03
+	"thrusting heat" 6.06
+
+outfit "Thruster (Comet Class)"
+	"thrust" 25.74
+	"thrusting energy" 3.77
+	"thrusting heat" 11.38
+
+outfit "Thruster (Lunar Class)"
+	"thrust" 46.33
+	"thrusting energy" 6.72
+	"thrusting heat" 20.41
+
+outfit "Thruster (Planetary Class)"
+	"thrust" 85.52
+	"thrusting energy" 12.29
+	"thrusting heat" 37.58
+
+outfit "Thruster (Stellar Class)"
+	"thrust" 155.75
+	"thrusting energy" 22.21
+	"thrusting heat" 68.38
+
+outfit "Steering (Asteroid Class)"
+	"turn" 341.25
+	"turning energy" 0.85
+	"turning heat" 2.53
+
+outfit "Steering (Comet Class)"
+	"turn" 706.39
+	"turning energy" 1.73
+	"turning heat" 5.2
+
+outfit "Steering (Lunar Class)"
+	"turn" 1306.82
+	"turning energy" 3.16
+	"turning heat" 9.59
+
+outfit "Steering (Planetary Class)"
+	"turn" 2469.01
+	"turning energy" 5.91
+	"turning heat" 18.09
+
+outfit "Steering (Stellar Class)"
+	"turn" 4563.87
+	"turning energy" 10.85
+	"turning heat" 33.39
+
+# Pug
+
+outfit "Pug Akfar Thruster"
+	"thrust" 28.0
+	"thrusting energy" 2.2
+	"thrusting heat" 3.1
+
+outfit "Pug Akfar Steering"
+	"turn" 750
+	"turning energy" 1.3
+	"turning heat" 2.1
+
+outfit "Pug Cormet Thruster"
+	"thrust" 44.0
+	"thrusting energy" 3.3
+	"thrusting heat" 4.6
+
+outfit "Pug Cormet Steering"
+	"turn" 1130
+	"turning energy" 1.9
+	"turning heat" 3.1
+
+outfit "Pug Lohmar Thruster"
+	"thrust" 66.0
+	"thrusting energy" 4.9
+	"thrusting heat" 6.9
+
+outfit "Pug Lohmar Steering"
+	"turn" 1700
+	"turning energy" 2.8
+	"turning heat" 4.7
+
+# Quarg
+
+outfit "Medium Graviton Steering"
+	"turn" 2000
+	"turning energy" 8.33
+	"turning heat" 4.16
+
 # Remnant
 
 outfit "Anvil-Class Engine"
@@ -362,3 +453,53 @@ outfit "Smelter-Class Steering"
 
 outfit "Fusion Drive"
 	"turn" 2870.4
+
+# Wanderer
+
+outfit "Type 1 Radiant Thruster"
+	"thrust" 8.25
+	"thrusting energy" 0.6
+	"thrusting heat" 1.16
+	"cooling" 1.5
+
+outfit "Type 2 Radiant Thruster"
+	"thrust" 20.42
+	"thrusting energy" 1.46
+	"thrusting heat" 2.82
+	"cooling" 3.6
+
+outfit "Type 3 Radiant Thruster"
+	"thrust" 34.3
+	"thrusting energy" 2.43
+	"thrusting heat" 4.68
+	"cooling" 6.5
+
+outfit "Type 4 Radiant Thruster"
+	"thrust" 56.8
+	"thrusting energy" 3.99
+	"thrusting heat" 7.7
+	"cooling" 11.7
+
+outfit "Type 1 Radiant Steering"
+	"turn" 216
+	"turning energy" 0.26
+	"turning heat" 0.5
+	"cooling" 1.0
+
+outfit "Type 2 Radiant Steering"
+	"turn" 552.0
+	"turning energy" 0.66
+	"turning heat" 1.27
+	"cooling" 2.1
+
+outfit "Type 3 Radiant Steering"
+	"turn" 919.08
+	"turning energy" 1.09
+	"turning heat" 2.09
+	"cooling" 3.9
+
+outfit "Type 4 Radiant Steering"
+	"turn" 1569.48
+	"turning energy" 1.84
+	"turning heat" 3.54
+	"cooling" 6.7
