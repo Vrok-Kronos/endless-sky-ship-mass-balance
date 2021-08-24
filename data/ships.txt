@@ -819,7 +819,7 @@ ship "Quarg Wardragon"
 
 ship "Emerald Sword"
 	attributes
-		"mass" 2877
+		"mass" 7581
 		"drag" 20
 		"hull repair rate" 5.7
 

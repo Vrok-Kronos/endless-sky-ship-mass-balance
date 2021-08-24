@@ -452,7 +452,9 @@ outfit "Smelter-Class Steering"
 # Sheragi
 
 outfit "Fusion Drive"
-	"turn" 2870.4
+	"turn" 4368
+	"thrust" 190
+	"reverse thrust" 57
 
 # Wanderer
 
